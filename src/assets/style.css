@@ -32,6 +32,12 @@ body {
   align-items: center;
 }
 
+.intro {
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
 .intro h3{
   color: #fff;
   background: rgba(255, 255, 255, 0.2);
@@ -51,6 +57,7 @@ body {
   font-size: 25px;
   cursor: pointer;
 }
+
 
 .circles {
   position: absolute;
