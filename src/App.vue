@@ -1,9 +1,9 @@
 <template>
   <div id="app">
     <div class="area">
-      <div class="intro">
-        <h3>Atefeh Atashi</h3>
-        <div class="socials">
+      <div class="intro heading-primary">
+        <h3 class="heading-primary-main">Atefeh Atashi</h3>
+        <div class="socials heading-primary-sub">
           <a href="https://medium.com/@atefeh_sa93"><i class="fab fa-medium"></i></a>
           <a href="https://twitter.com/atefeh_sa93"><i class="fab fa-twitter"></i></a>
           <a href="https://github.com/atefeh-sa93"><i class="fab fa-github"></i></a>
